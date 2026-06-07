@@ -1,0 +1,10 @@
+{
+  "name": "okta-ukg-manager-attestation-ledger",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Manager attestation ledger tying Okta access reviews to UKG reporting lines.",
+  "scripts": {
+    "test": "node scripts/validate.js"
+  },
+  "license": "AGPL-3.0-only"
+}
